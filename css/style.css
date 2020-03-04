@@ -49,20 +49,23 @@ aside em {
     color: rgb(21,88,218);
   }
   
-  #footer {
+  footer {
     background-color: #222;
     color: #eee;
   }
   
-  #footer a {
+  footer a {
     color: #eee;
   }
   
-  #footer a:visited {
-    color: #444
+  footer a:visited {
+    color: #444;
   }
     
-      
+ footer small {
+  font-size: 10px;
+ }
+  
 
 
 
